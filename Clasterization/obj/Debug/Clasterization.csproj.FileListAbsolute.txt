@@ -1,0 +1,11 @@
+D:\prog\C#\Clasterization\Clasterization\bin\Debug\Clasterization.exe.config
+D:\prog\C#\Clasterization\Clasterization\bin\Debug\Clasterization.exe
+D:\prog\C#\Clasterization\Clasterization\bin\Debug\Clasterization.pdb
+D:\prog\C#\Clasterization\Clasterization\obj\Debug\Clasterization.csprojResolveAssemblyReference.cache
+D:\prog\C#\Clasterization\Clasterization\obj\Debug\Clasterization.exe
+D:\prog\C#\Clasterization\Clasterization\obj\Debug\Clasterization.pdb
+D:\prog\C#\Clasterization\Clasterization\bin\Debug\LemmaSharp.dll
+D:\prog\C#\Clasterization\Clasterization\bin\Debug\LemmaSharpPrebuilt.dll
+D:\prog\C#\Clasterization\Clasterization\bin\Debug\LemmaSharpPrebuiltCompact.dll
+D:\prog\C#\Clasterization\Clasterization\bin\Debug\Lzma#.dll
+D:\prog\C#\Clasterization\Clasterization\bin\Debug\Sparc.TagCloud.dll
